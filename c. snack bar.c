@@ -1,3 +1,4 @@
+\*
 Author: Njoroge jackline
 compiler: C89
 License :MIT
@@ -30,21 +31,21 @@ int main()
 
     }
     // computation
-    hotdog ksh 90*1=ksh 90
-    hamburger 300*1= 300
-    french fries 150*2= 300
-    milkshake 150*2= 300
-    coffee 70*2= 140
-    beef smokies 40*2= 80
+    hotdog ksh 90*1=ksh 90;
+    hamburger 300*1= 300;
+    french fries 150*2= 300;
+    milkshake 150*2= 300;
+    coffee 70*2= 140;
+    beef smokies 40*2= 80;
 
-    subtotal =  ksh 1210
-    VAT =           193.6
-    Total price = ksh 1403.6
+    subtotal =  ksh 1210;
+    VAT =           193.6;
+    Total price = ksh 1403.6;
 
-    Amount tendered = ksh 1550
-    change = ksh 146.4
+    Amount tendered = ksh 1550;
+    change = ksh 146.4;
 
-    THANK YOU AND COME AGAIN
+    Printf("Thank you and come again\n");
 
     }
 
